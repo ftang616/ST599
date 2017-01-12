@@ -1,3 +1,3 @@
 # my first project
 
-un < runif(100, 0,1)
+un <- runif(100, 0,1)
